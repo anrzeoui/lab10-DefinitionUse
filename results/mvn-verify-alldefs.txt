@@ -28,9 +28,9 @@
 [[1;34mINFO[m]  T E S T S
 [[1;34mINFO[m] -------------------------------------------------------
 [[1;34mINFO[m] Running mn.edu.must.sqat.[1mGcdTest[m
-[[1;34mINFO[m] [1;32mTests run: [0;1;32m2[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.099 s -- in mn.edu.must.sqat.[1mGcdTest[m
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m2[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.080 s -- in mn.edu.must.sqat.[1mGcdTest[m
 [[1;34mINFO[m] Running mn.edu.must.sqat.[1mBonusAllDefsTest[m
-[[1;34mINFO[m] [1;32mTests run: [0;1;32m2[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s -- in mn.edu.must.sqat.[1mBonusAllDefsTest[m
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m2[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s -- in mn.edu.must.sqat.[1mBonusAllDefsTest[m
 [[1;34mINFO[m] 
 [[1;34mINFO[m] Results:
 [[1;34mINFO[m] 
@@ -45,6 +45,6 @@
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;34mINFO[m] [1;32mBUILD SUCCESS[m
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
-[[1;34mINFO[m] Total time:  4.129 s
-[[1;34mINFO[m] Finished at: 2026-11-16T17:20:37+08:00
+[[1;34mINFO[m] Total time:  3.724 s
+[[1;34mINFO[m] Finished at: 2026-11-16T17:59:01+08:00
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
